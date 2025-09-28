@@ -12,7 +12,7 @@ export default function RootLayout({
 }>) {
   return (
    <main>
-    Sidebar
+    Sideba
         {children}
    </main>
   );
